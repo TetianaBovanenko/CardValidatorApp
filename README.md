@@ -1,5 +1,6 @@
 # CreditCardValidator
-![CreditCardValidator Logo](https://github.com/TetianaBovanenko/CardValidatorApp/blob/main/CreditCardValidatorLogo.png?raw=true)
+
+![CreditCardValidator Logo](https://github.com/TetianaBovanenko/CardValidatorApp/blob/main/CreditCardValidator%20Logo.jpg?raw=true)
 
 CreditCardValidator is a Python-based tool with a graphical user interface (GUI) for validating credit cards. The tool uses the Luhn algorithm to check the validity of the credit card number and verifies that the card has not expired.
 
